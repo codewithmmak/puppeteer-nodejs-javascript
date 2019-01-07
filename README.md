@@ -26,7 +26,7 @@ This is sample Test Automation framework designed using Puppeteer, NodeJS and Ja
 ![Puppeteer, NodeJS and Javascript Test Results](./images/console-test-results.png?raw=true "Puppeteer, NodeJS and Javascript Test Results")
 
 
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/19/test-automation-using-puppeteer-nodejs-javascript/ "Step by Step installation instruction for Beginners")
+## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2019/01/07/test-automation-using-puppeteer-nodejs-and-javascript/ "Step by Step installation instruction for Beginners")
 
 
 ## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
