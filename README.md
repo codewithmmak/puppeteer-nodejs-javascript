@@ -17,7 +17,7 @@ This is sample Test Automation framework designed using Puppeteer, NodeJS and Ja
 * All the dependencies from package.json and ambient typings would be installed in node_modules folder.
 
 ### How to Run Test
-* Run complete Test Suite: `node test-suites/chrome.spec.js`
+* Run Test: `node test-suites/chrome.spec.js`
 
 ### How to Update local npm packages
 * Go to Project root directory and run command: `npm update`
