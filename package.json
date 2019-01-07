@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-javascript",
+  "version": "1.0.0",
+  "description": "This is Test Automation framework designed using Puppeteer, NodeJS and Javascript.",
+  "homepage": "https://github.com/qaloop/puppeteer-nodejs-javascript",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  },
+  "keywords": [
+    "puppeteer",
+    "javascript",
+    "angular",
+    "angularjs",
+    "vscode",
+    "testing",
+    "selenium",
+    "automation testing"
+  ],
+  "author": "QA Loop",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qaloop/puppeteer-nodejs-javascript.git"
+  }
+}
