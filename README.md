@@ -23,9 +23,7 @@ This is sample Test Automation framework designed using Puppeteer, NodeJS and Ja
 * Go to Project root directory and run command: `npm update`
 
 ### Sample Test Results
-<p align="center">
-<img src= "./images/console-test-results.png" width=800 height=600 alt="puppeteer-nodejs-javascript.png"/>
-</p>
+![Puppeteer, NodeJS and Javascript Test Results](./images/console-test-results.png?raw=true "Puppeteer, NodeJS and Javascript Test Results")
 
 
 ## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/19/test-automation-using-puppeteer-nodejs-javascript/ "Step by Step installation instruction for Beginners")
