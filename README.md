@@ -1,7 +1,7 @@
 ![Puppeteer, NodeJS and Javascript](./images/puppeteer-nodejs-javascript.png?raw=true "Puppeteer, NodeJS and Javascript")
 
-# Puppeteer, NodeJS and Javascript Setup Guide
-This is sample Test Automation framework designed using Puppeteer, NodeJS and Javascript.
+# Puppeteer, NodeJS and Javascript Test Automation Examples
+This is sample Test Automation framework designed using Puppeteer, NodeJS and Javascript. And in this framework we will see some basic working examples for learning.
 
 ## To Get Started
 
@@ -17,7 +17,7 @@ This is sample Test Automation framework designed using Puppeteer, NodeJS and Ja
 * All the dependencies from package.json and ambient typings would be installed in node_modules folder.
 
 ### How to Run Test
-* Run Test: `node specs/chrome.spec.js`
+* Run Test: `node specs/chrome.js`
 
 ### How to Update local npm packages
 * Go to Project root directory and run command: `npm update`
