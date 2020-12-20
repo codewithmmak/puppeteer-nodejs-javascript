@@ -5,10 +5,10 @@
   "homepage": "https://github.com/qaloop/puppeteer-nodejs-javascript",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.20.0"
   },
   "devDependencies": {
-    "@types/node": "^10.12.18"
+    "@types/node": "^10.17.49"
   },
   "keywords": [
     "puppeteer",
