@@ -7,9 +7,9 @@ This is sample Test Automation framework designed using Puppeteer, NodeJS and Ja
 
 ### Pre-requisites
 * Download and install Node.js:
-  * [Install Node.JS](https://qaloop.tk/blog/install-node-js/ "Install Node.JS")
+  * [Install Node.JS](https://www.codewithmmak.com/blog/2018/11/23/install-node-js/ "Install Node.JS")
 * Optional - Download and install any Text Editor like Visual Code/Sublime/Brackets
-  * [Install Visual Studio Code](https://qaloop.tk/blog/install-visual-studio-code/ "Install Visual Studio Code")
+  * [Install Visual Studio Code](https://www.codewithmmak.com/blog/2018/11/23/install-visual-studio-code/ "Install Visual Studio Code")
 
 ### Setup Scripts 
 * Clone the repository into a folder
