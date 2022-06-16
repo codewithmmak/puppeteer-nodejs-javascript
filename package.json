@@ -2,13 +2,15 @@
   "name": "puppeteer-nodejs-javascript",
   "version": "1.0.0",
   "description": "This is Test Automation framework designed using Puppeteer, NodeJS and Javascript.",
-  "homepage": "https://github.com/qaloop/puppeteer-nodejs-javascript",
+  "homepage": "https://github.com/codewithmmak/puppeteer-nodejs-javascript",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^1.20.0"
+    "npm": "^8.12.2",
+    "puppeteer": "^14.4.0"
   },
   "devDependencies": {
-    "@types/node": "^10.17.60"
+    "@types/node": "^10.17.60",
+    "npm-check-updates": "^14.0.1"
   },
   "keywords": [
     "puppeteer",
@@ -20,10 +22,10 @@
     "selenium",
     "automation testing"
   ],
-  "author": "QA Loop",
+  "author": "Code with MMAK",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qaloop/puppeteer-nodejs-javascript.git"
+    "url": "https://github.com/codewithmmak/puppeteer-nodejs-javascript.git"
   }
 }
