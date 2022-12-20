@@ -5,7 +5,7 @@
   "homepage": "https://github.com/codewithmmak/puppeteer-nodejs-javascript",
   "main": "index.js",
   "dependencies": {
-    "npm": "^8.13.1",
+    "npm": "^9.0.0",
     "puppeteer": "^15.1.0"
   },
   "devDependencies": {
