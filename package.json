@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
-    "npm-check-updates": "^15.0.0"
+    "npm-check-updates": "^16.0.0"
   },
   "keywords": [
     "puppeteer",
