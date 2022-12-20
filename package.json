@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {
     "npm": "^9.0.0",
-    "puppeteer": "^15.1.0"
+    "puppeteer": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
