@@ -5,12 +5,12 @@
   "homepage": "https://github.com/codewithmmak/puppeteer-nodejs-javascript",
   "main": "index.js",
   "dependencies": {
-    "npm": "^9.0.0",
-    "puppeteer": "^19.0.0"
+    "npm": "^9.2.0",
+    "puppeteer": "^19.4.1"
   },
   "devDependencies": {
-    "@types/node": "^18.0.0",
-    "npm-check-updates": "^16.0.0"
+    "@types/node": "^18.11.17",
+    "npm-check-updates": "^16.6.2"
   },
   "keywords": [
     "puppeteer",
